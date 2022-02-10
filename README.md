@@ -3,6 +3,7 @@
 - 👋 Sou um Dev iniciante na área de Front-end que está em busca de ingressar na área!
 - 🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, JavaScript, Firebase e Jquery;
 - 🌱 Atualmente estou estudando ReactJS e me aprofundando um pouco mais no JavaScript!
+- 📚 Cursando Análise e Desenvolvimento de Sistemas (5 período).
 
 <div align="center">
   <a href="https://github.com/johnatanSO">
