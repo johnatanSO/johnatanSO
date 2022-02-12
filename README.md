@@ -6,8 +6,8 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistemas (5 período).
 
 <div align="center">
-  <img height="160vh" src="https://github-readme-stats.vercel.app/api?username=johnatanSO&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="140vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanSO&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=johnatanSO&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanSO&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
 <h2>🚀 Tecnologias: </h2>
