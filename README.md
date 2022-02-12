@@ -1,9 +1,12 @@
 <h1 align="center">Olá! Eu sou o Johnatan Santos!</h1>
 <div align="center">
- 👋 Sou um Dev iniciante na área de Front-end que está em busca de ingressar na área!<br>
- 🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, JavaScript, Firebase e Jquery;<br>
- 🌱 Atualmente estou estudando ReactJS e me aprofundando um pouco mais no JavaScript!<br>
- 📚 Cursando Análise e Desenvolvimento de Sistemas (5 período).<br>
+ 👋 Sou um Dev iniciante na área de Front-end que está em busca de ingressar na área!
+ <br>
+ 🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, JavaScript, Firebase e Jquery;
+ <br>
+ 🌱 Atualmente estou estudando ReactJS e me aprofundando um pouco mais no JavaScript;
+ <br>
+ 📚 Cursando Análise e Desenvolvimento de Sistemas (5 período).
 </div>
 
 <br>
@@ -35,6 +38,8 @@
   <a href="https://instagram.com/john.s.o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:devsantosjohn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/johnatan-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://wa.me/61984022596" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4af23?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 
  
   ![Snake animation](https://github.com/johnatanSO/johnatanSO/blob/output/github-contribution-grid-snake.svg)
 </div>
