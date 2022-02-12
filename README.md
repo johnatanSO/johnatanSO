@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Johnatan Santos!</h1>
+<h1 align="center">Olá, eu sou o Johnatan!</h1>
 <div align="center">
  👋 Sou um Dev iniciante na área de Front-end que está em busca de ingressar na área!
  <br>
