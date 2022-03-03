@@ -20,7 +20,7 @@
   
 >
 <div align="center" style="display: inline_block">
-  <h2>🚀 Tecnologias </h2
+ <h2>🚀 Tecnologias </h2>
     <img align="center" alt="John-HTML" height="30" width="40"                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="John-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="John-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
