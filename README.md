@@ -1,12 +1,12 @@
-<h1 align="center">Olá, eu sou o Johnatan!</h1>
+<h1 align="center">Olá, meu nome é Johnatan!</h1>
 <div align="center">
- 👋 Sou um Dev iniciante na área de Front-end que está em constante desenvolvimento e aprendizado. Em busca de novos desafios e oportunidade para ingressar na área de desenvolvimento.
+ 👋 Sou um 👋 Sou um desenvolvedor web apaixonado por tecnologia e que está em constante desenvolvimento e aprendizado. Em busca de novos desafios e uma oportunidade para ingressar no mercado.
  <br>
  🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, SASS, JavaScript, ReactJS, Firebase e Jquery;
  <br>
- 🌱 Atualmente estou estudando ReactJS e me aprofundando um pouco mais no JavaScript;
+ 🌱 Atualmente estou estudando ReactJS, Redux e aprofundando mais os conhecimentos em JavaScript;
  <br>
- 📚 Cursando Análise e Desenvolvimento de Sistemas (5 período).
+ 📚 Cursando Análise e Desenvolvimento de Sistemas (5° período).
 </div>
 
 <br>
