@@ -2,7 +2,7 @@
 <div align="center">
  👋 Sou um Dev iniciante na área de Front-end que está em constante desenvolvimento e aprendizado. Em busca de novos desafios e oportunidade para ingressar na área de desenvolvimento.
  <br>
- 🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, JavaScript, ReactJS, Firebase e Jquery;
+ 🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, SASS, JavaScript, ReactJS, Firebase e Jquery;
  <br>
  🌱 Atualmente estou estudando ReactJS e me aprofundando um pouco mais no JavaScript;
  <br>
