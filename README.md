@@ -1,11 +1,17 @@
 <h1 align="center">Olá, meu nome é Johnatan!</h1>
 <div align="center">
- 👋 Sou um 👋 Sou um desenvolvedor web apaixonado por tecnologia e que está em constante desenvolvimento e aprendizado. Em busca de novos desafios e uma oportunidade para ingressar no mercado.
+ 👋 Sou um desenvolvedor web apaixonado por tecnologia e que está em constante desenvolvimento, sempre antenado nas mais novas tecnologias do mercado para me aperfeiçoar da melhor maneira possível. Em busca de novos desafios e uma oportunidade para ingressar no mercado.
  <br>
+ 
+ 👨‍💻 <a href="https://portfolio-one-omega-59.vercel.app/" target="_blank" rel="nooper noreferrer">Clique aqui para ver o portfólio</a> 
+ <br>
+ 
  🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, SASS, JavaScript, ReactJS, Firebase e Jquery;
  <br>
+ 
  🌱 Atualmente estou estudando ReactJS, Redux e aprofundando mais os conhecimentos em JavaScript;
  <br>
+ 
  📚 Cursando Análise e Desenvolvimento de Sistemas (5° período).
 </div>
 
