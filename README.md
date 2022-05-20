@@ -6,10 +6,10 @@
  👨‍💻 <a href="https://portfolio-one-omega-59.vercel.app/" target="_blank" rel="nooper noreferrer">Clique aqui para ver o portfólio</a> 
  <br>
  
- 🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, SASS, JavaScript, ReactJS, Firebase e Jquery;
+ 🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, SASS, JavaScript, Typescript, ReactJS, Node, Express, Firebase e Jquery;
  <br>
  
- 🌱 Atualmente estou estudando ReactJS, Redux e aprofundando mais os conhecimentos em JavaScript;
+ 🌱 Atualmente estou aprofundando meus conhecimentos em ReactJS, Node e Typescript, através do curso Ignite da escola de tecnologia ROCKETSEAT;
  <br>
  
  📚 Cursando Análise e Desenvolvimento de Sistemas (5° período).
@@ -27,14 +27,18 @@
 >
 <div align="center" style="display: inline_block">
  <h2>🚀 Tecnologias </h2>
-    <img align="center" alt="John-HTML" height="30" width="40"                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="John-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="John-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img align="center" alt="John-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="John-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="John-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-    <img align="center" alt="John-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-    <img align="center" alt="John-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" alt="John-HTML" height="60" width="60"                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="John-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="John-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" alt="John-JS" height="60" width=60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="John-JS" height="60" width=60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="John-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="John-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
+    <img align="center" alt="John-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+    <img align="center" alt="John-Firebase" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+    <img align="center" alt="John-Jquery" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+    <img align="center" alt="John-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+    
     
   
 </div>
