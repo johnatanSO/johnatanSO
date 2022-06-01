@@ -6,7 +6,7 @@
  👨‍💻 <a href="https://portfolio-one-omega-59.vercel.app/" target="_blank" rel="nooper noreferrer">Clique aqui para ver o portfólio</a> 
  <br>
  
- 🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, SASS, JavaScript, Typescript, ReactJS, Node, Express, Firebase e Jquery;
+ 🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, SASS, Bootstrap, Styled-Components, JavaScript, Typescript, ReactJS, Node, Express, MongoDB, Docker, JWT, Firebase e Jquery;
  <br>
  
  🌱 Atualmente estou aprofundando meus conhecimentos em ReactJS, Node e Typescript, através do curso Ignite da escola de tecnologia ROCKETSEAT;
@@ -35,6 +35,8 @@
     <img align="center" alt="John-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="John-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
     <img align="center" alt="John-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+   <img align="center" alt="John-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="John-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
     <img align="center" alt="John-Firebase" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
     <img align="center" alt="John-Jquery" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
     <img align="center" alt="John-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
