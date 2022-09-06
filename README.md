@@ -1,6 +1,6 @@
 <h1 align="center">Olá, meu nome é Johnatan!</h1>
 <div align="center">
- 👋 Sou um desenvolvedor web apaixonado por tecnologia e que está em constante desenvolvimento, sempre antenado nas mais novas tecnologias do mercado para me aperfeiçoar da melhor maneira possível. Em busca de novos desafios e uma oportunidade para ingressar no mercado.
+ 👋 Sou um desenvolvedor web apaixonado por tecnologia e que está em constante desenvolvimento, sempre antenado nas mais novas tecnologias do mercado para me aperfeiçoar da melhor maneira possível e continuar em busca de novos desafios!
  <br>
  
  👨‍💻 <a href="https://portfolio-one-omega-59.vercel.app/" target="_blank" rel="nooper noreferrer">Clique aqui para ver o portfólio</a> 
@@ -9,10 +9,10 @@
  🔭 Tenho alguns projetos nos repositórios utilizando algumas tecnologias como: HTML, CSS, SASS, Bootstrap, Styled-Components, JavaScript, Typescript, ReactJS, Node, Express, MongoDB, Docker, JWT, Firebase e Jquery;
  <br>
  
- 🌱 Atualmente estou aprofundando meus conhecimentos em ReactJS, Node e Typescript, através do curso Ignite da escola de tecnologia ROCKETSEAT;
+ 🌱 Atualmente trabalhando como desenvolvedor full-stack com as teclonogias: ReactJS, Typescript, Node, Express, MongoDB;
  <br>
  
- 📚 Cursando Análise e Desenvolvimento de Sistemas (5° período).
+ 📚 Cursando Análise e Desenvolvimento de Sistemas (6° período).
 </div>
 
 <br>
