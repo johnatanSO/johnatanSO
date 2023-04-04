@@ -7,7 +7,7 @@
  👨‍💻 <a href="https://portfolio-one-omega-59.vercel.app/" target="_blank" rel="nooper noreferrer">Clique aqui para ver o portfólio</a> 
  <br>
  
- 🔭 Seguindo nessa jornada há cerca de 2 anos, já trabalhei com as algumas das tecnologias como: React, Next, Javascript, Typescript, Angular, Node, Express, HTML, CSS, SASS, Bootstrap, Styled-Components, MongoDB, Docker, JWT, Firebase, Git, CI/CD;
+ 🔭 Seguindo nessa jornada há cerca de 2 anos, já trabalhei com algumas das tecnologias mais presentes no mercado, como: React, Next, Javascript, Typescript, Angular, Node, Express, HTML, CSS, SASS, Bootstrap, Styled-Components, MongoDB, Docker, JWT, Firebase, Git, CI/CD;
  <br>
  
  🌱 Atualmente trabalhando como desenvolvedor full-stack com as teclonogias: React, Next, Angular, Typescript, Node, Express e MongoDB;
