@@ -4,7 +4,7 @@
  👋 Sou um desenvolvedor web apaixonado por tecnologia e que procura estar em constante desenvolvimento, sempre antenado nas mais novas tecnologias do mercado para me aperfeiçoar da melhor maneira possível e continuar em busca de novos desafios!
  <br>
  
- 👨‍💻 <a href="https://portfolio-one-omega-59.vercel.app/" target="_blank" rel="nooper noreferrer">Clique aqui para ver o portfólio</a> 
+ 👨‍💻 <a href="https://portfolio-ecru-eta-75.vercel.app/" target="_blank" rel="nooper noreferrer">Clique aqui para ver o portfólio</a> 
  <br>
  
  🔭 Seguindo nessa jornada há cerca de 2 anos, já trabalhei com algumas das tecnologias mais presentes no mercado, como: React, Next, Javascript, Typescript, Angular, Node, Express, HTML, CSS, SASS, Bootstrap, Styled-Components, MongoDB, Docker, JWT, Firebase, Git, CI/CD;
