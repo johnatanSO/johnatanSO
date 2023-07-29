@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Johnatan!</h1>
-<h4 align="center">(Desenvolvedor Full Stack)</h4>
+<h4 align="center">(Desenvolvedor Web Full Stack)</h4>
 <div align="center">
  👋 Sou um desenvolvedor web apaixonado por tecnologia e que procura estar em constante desenvolvimento, sempre antenado nas mais novas tecnologias do mercado para me aperfeiçoar da melhor maneira possível e continuar em busca de novos desafios!
  <br>
@@ -10,7 +10,7 @@
  🔭 Seguindo nessa jornada há cerca de 2 anos, já trabalhei com algumas das tecnologias mais presentes no mercado, como: React, Next, Javascript, Typescript, Angular, Node, Express, HTML, CSS, SASS, Bootstrap, Styled-Components, MongoDB, Docker, JWT, Firebase, Git, CI/CD;
  <br>
  
- 🌱 Atualmente trabalhando como desenvolvedor full-stack em um sistema ERP 100% em nuvem, distribuido para todo o Brasil, que visa otimizar e melhorar a produtividade de empresas. Algumas da tecnologias utilizadas no sistema: React, Next, Angular, Typescript, Node, Express e MongoDB;
+ 🌱 Atualmente trabalhando como desenvolvedor full-stack em um sistema ERP 100% em nuvem e um outro sistema para gestão financeira, distribuidos para todo o Brasil, que visam otimizar e melhorar a produtividade de empresas. Algumas da tecnologias utilizadas nos sistemas: React, Next, Angular, Typescript, Node, Express e MongoDB;
  <br>
  
  📚 Formado em Análise e Desenvolvimento de Sistemas.
