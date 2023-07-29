@@ -13,7 +13,7 @@
  🌱 Atualmente trabalhando como desenvolvedor full-stack em um sistema ERP 100% em nuvem, distribuido para todo o Brasil, que visa otimizar e melhorar a produtividade de empresas. Algumas da tecnologias utilizadas no sistema: React, Next, Angular, Typescript, Node, Express e MongoDB;
  <br>
  
- 📚 Formado Análise e Desenvolvimento de Sistemas (6° período).
+ 📚 Formado em Análise e Desenvolvimento de Sistemas.
 </div>
 
 <br>
