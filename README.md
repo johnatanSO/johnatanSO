@@ -7,7 +7,7 @@
  👨‍💻 <a href="https://portfolio-ecru-eta-75.vercel.app/" target="_blank" rel="nooper noreferrer">Clique aqui para ver o portfólio</a> 
  <br>
  
- 🔭 Seguindo nessa jornada há cerca de 2 anos, já trabalhei com algumas das tecnologias mais presentes no mercado, como: React, Next, Javascript, Typescript, Angular, Node, Express, HTML, CSS, SASS, Bootstrap, Styled-Components, MongoDB, Docker, JWT, Firebase, Git, CI/CD;
+ 🔭 Seguindo nessa jornada há cerca de 2 anos, já trabalhei com algumas das tecnologias mais presentes no mercado, como: React, Next, Javascript, Typescript, Angular, Node, Express, HTML, CSS, SASS, Bootstrap, Styled-Components, MongoDB, Docker, JWT, Firebase, versionamento com Git/Github com padrão GITFLOW, práticas de CI/CD;
  <br>
  
  🌱 Atualmente trabalhando como desenvolvedor full-stack em um sistema ERP 100% em nuvem e um outro sistema para gestão financeira, distribuidos para todo o Brasil, que visam otimizar e melhorar a produtividade de empresas. Algumas da tecnologias utilizadas nos sistemas: React, Next, Angular, Typescript, Node, Express e MongoDB;
