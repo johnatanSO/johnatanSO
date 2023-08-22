@@ -10,7 +10,7 @@
  🔭 Seguindo nessa jornada há cerca de 2 anos, já trabalhei com algumas das tecnologias mais presentes no mercado, como: React, Next, Javascript, Typescript, Angular, Node, Express, HTML, CSS, SASS, Bootstrap, Styled-Components, MongoDB, Docker, JWT, Firebase, versionamento com Git/Github com padrão GITFLOW, práticas de CI/CD;
  <br>
  
- 🌱 Atualmente trabalhando como desenvolvedor full-stack em um sistema ERP 100% em nuvem e um outro sistema para gestão financeira, distribuidos para todo o Brasil, que visam otimizar e melhorar a produtividade de empresas. Algumas da tecnologias utilizadas nos sistemas: React, Next, Angular, Typescript, Node, Express e MongoDB;
+ 🌱 Atualmente trabalhando como desenvolvedor full-stack em dois sistemas ERP 100% em nuvem, distribuidos para todo o Brasil com mais de 1000 clientes, que visam otimizar e melhorar a produtividade de empresas. Algumas da tecnologias utilizadas nos sistemas: React, Next, Angular, Typescript, SASS, Node, Express e MongoDB;
  <br>
  
  📚 Formado em Análise e Desenvolvimento de Sistemas.
