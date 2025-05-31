@@ -21,14 +21,14 @@
 
 <div align="center">
   <h2>Analytics</h2>
-  <img width="450em"  src="https://github-readme-stats.vercel.app/api?username=johnatanSO&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img width="450em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanSO&layout=compact&langs_count=7&theme=monokai"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=johnatanSO&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanSO&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
 >
 <div align="center" style="display: inline_block">
  <h2>🚀 Tecnologias </h2>
-    <img align="center" alt="John-HTML" height="60" width="60"                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="John-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="John-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="John-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="John-JS" height="60" width=60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
